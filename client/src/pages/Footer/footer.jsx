@@ -1,5 +1,5 @@
 import "./footer.css";
-import logo from "../../assets/Images/logo-1.jpeg";
+import logo from "../../assets/Images/logo-1.png";
 import facebook from "../../assets/Images/facebook.jpeg";
 import twitter from "../../assets/Images/twitter.jpeg";
 import youtube from "../../assets/Images/youtube.jpeg";
